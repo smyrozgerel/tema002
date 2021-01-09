@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+* {box-sizing: border-box;}
+
+body{font-family: 'Roboto', sans-serif; margin:0px; padding:0px; background:#F1EDDF;}
+
+#logo{width:100%; height:50px; background:#FFF; margin:0px; padding:0px;}
+
+#logo h1{color:#000; margin-left:15%; font-size:35px;}
+
+#logo span{color:#E61F1F;}
+
+#menu{background:#E61F1F; width:100%; height:40px;  padding-left:11%; margin-top:0;}
+
+#menu li{ float:left; list-style:none;}
+
+#menu i{line-height:25px; border-right:1px dashed #FFFFFF;}
+
+#menu li a{margin:10px; color:#FFF; text-decoration:none; float:left;}
+
+
+
+
+#hakkimizda{width:100%; height:700px;}
+
+#metin{width:70%; margin:auto;}
+
+#metin h2{font-weight:bold; padding-top:50px; text-align:center;}
+
+#metin h5{text-align:left; color:#333;}
+
+#metin p{margin:20px; font-size:18px; text-align:justify;}
+
+#metin hr{width:50px;}
+
+
+
+
+
+
+
+
+
+
+
+footer{width:100%; height:50px; border-top:2px solid #EAEAEA; background-color:#FFF; padding-left:15%; 
+padding-right:180px; line-height:50px; float:left;}
+
+span{color:#F00;}
+
+#sosyalikon{width:140px; height:50px; float:right; padding-left:50px;}
+
+#sosyalikon i{margin-left:5px; color:#666;}

@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+* {box-sizing: border-box;}
+
+body{font-family: 'Roboto', sans-serif; margin:0; padding:0; background:#F1EDDF;}
+
+#logo{width:100%; height:50px; background:#FFF; margin:0; padding:0;}
+
+#logo h1{color:#000; margin-left:15%; font-size:35px;}
+
+#logo span{color:#E61F1F;}
+
+#menu{background:#E61F1F; width:100%; height:40px;  padding-left:11%; margin-top:0;}
+
+#menu li{ float:left; list-style:none;}
+
+#menu i{line-height:25px; border-right:1px dashed #FFFFFF;}
+
+#menu li a{margin:10px; color:#FFF; text-decoration:none; float:left;}
+
+#banner{background-image:url(banner.jpg); width:900px; height:375px; margin:auto; margin-top:20px;}
+
+#dikdortgen{width:900px; height:20px; margin:auto;}
+
+.kutu1{height:10px; width:79px; margin-left:0px;  float:left; background:#E61F1F;}
+
+.kutu2{height:10px; width:78px; margin-left:4px; background:#373737; float:right;}
+
+#duyuru{width:900px; height:100px; background:#FCFCFC; color:#B2B7C0; margin:auto; margin-top:20px;
+padding-top:5px; line-height:10px; margin-bottom:20px;}
+
+#yon i{ float:right; margin-top:18px; }
+ 
+#yon a{color:#B2B7C0;} 
+ 
+#duyuru h3{padding-left:20px; height:5px;}
+
+#text i{margin-right:3px; margin-left:3px; color:#F00;}
+
+#icerik{width:900px; margin:auto; font-size:14px;}
+
+#solust{background:#FCFCFC; float:left; width:400px; height:280px; margin-bottom:10px; border-radius:5px;}
+
+#sagust{background:#FCFCFC; float:right; width:400px; height:280px; margin-bottom:10px; border-radius:5px;}
+
+#solalt{background:#FCFCFC; float:left; width:400px; height:280px; margin-right:20px; margin-bottom:10px;}
+
+#sagalt{background:#FCFCFC; float:right; width:400px; height:280px; margin-left:20px; margin-bottom:10px;}
+
+#icerik img{width:400px; height:150px;}
+
+#icerik span{color:#F00;}
+
+#icerik h3{padding-left:20px;}
+
+.sil{clear:both;}
+
+footer{width:100%; height:50px; border-top:2px solid #EAEAEA; background-color:#FFF; padding-left:15%; 
+padding-right:180px; line-height:50px; float:left;}
+
+span{color:#F00;}
+
+#sosyalikon{width:140px; height:50px; float:right; padding-left:50px;}
+
+#sosyalikon i{margin-left:5px; color:#666;}
